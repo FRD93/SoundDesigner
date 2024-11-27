@@ -1,2 +1,2 @@
 # SoundDesigner
-Placeholder for further plublic release of SoundDesigner software code
+Placeholder for near-future plublic release of SoundDesigner software code.
